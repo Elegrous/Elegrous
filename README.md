@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a Data Analyst, based in Dublin, Ireland
+
+- 🔭 I’m currently working on my portfolio in GitHub and on my site https://elegrous.com/
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 📫 How to reach me: https://www.linkedin.com/in/elegrous/
