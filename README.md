@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm a Data Analyst, based in Dublin, Ireland
+- I'm a Data Analyst and BI Specialist, based in Dublin, Ireland
 
 - 🔭 I’m currently working on my portfolio in GitHub and on my site https://elegrous.com/
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🌱 I’m currently learning Data Science, Machine Learning and Statistisc
 - 📫 How to reach me: https://www.linkedin.com/in/elegrous/
