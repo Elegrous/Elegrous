@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my portfolio in GitHub and on my site https://elegrous.com/
 - 🌱 I’m currently learning Data Science, Machine Learning and Statistisc
 - 📫 How to reach me: https://www.linkedin.com/in/elegrous/
-- ⚡ I want to work in Microsoft 😄
+- ⚡ I want to work at Microsoft 😄
+
+### Languages and Tools:
+[<img align="left" alt="Power BI" width="26px" src="images/Power-Bi.png" />](https://powerbi.microsoft.com/)
