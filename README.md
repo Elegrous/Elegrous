@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+, based in Dublin, Ireland
 -->
 
-- I'm a Data Analyst and BI Specialist, based in Dublin, Ireland
+- I'm a Data Analyst and BI Specialist
 
 - 🔭 I’m currently working on my portfolio in GitHub and on my site https://elegrous.com/
-- 🌱 I’m currently learning Data Science, Machine Learning and Statistisc
+- 🌱 I’m currently learning Data Science, Machine Learning 
 - 📫 How to reach me: https://www.linkedin.com/in/elegrous/
 - ⚡ I want to work at Microsoft 😄
 
