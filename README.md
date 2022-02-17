@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ I want to work at Microsoft 😄
 
 ### Languages and Tools:
-<a href="https://powerbi.microsoft.com/" target="_blank"><img align="left" alt="Power BI" width="26px" src="images/Power-Bi.png" />
+<a href="https://powerbi.microsoft.com/" target="_blank"><img align="left" alt="Power BI" width="26px" src="images/Power-Bi.png"></a>
 [<img align="left" alt="Excel" width="33px" src="images/excel.png" />](https://www.microsoft.com/en-ie/microsoft-365/excel)
 [<img align="left" alt="SQL" width="26px" src="images/SQL.png" />](https://azure.microsoft.com/en-us/products/azure-sql/database/#overview)
 [<img align="left" alt="Python" width="28px" src="images/python.png" />](https://www.python.org/)
