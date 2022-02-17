@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portfolio in GitHub and on my site https://elegrous.com/
 - <a href="https://elegrous.com/" target="_blank">elegrous.com</a>
+[go](https://elegrous.com/){:target="_blank" rel="noopener"}
 - 🌱 I’m currently learning Data Science, Machine Learning 
 - 📫 How to reach me: https://www.linkedin.com/in/elegrous/
 - ⚡ I want to work at Microsoft 😄
